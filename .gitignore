@@ -405,4 +405,5 @@ OpenCover/
 
 # 449
 db/
-__jac_gen__
+*__jac_gen__*
+*chroma*
